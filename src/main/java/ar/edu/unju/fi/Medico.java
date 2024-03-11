@@ -1,9 +1,10 @@
 package ar.edu.unju.fi;
 
-import javax.persistence.GenerationType;
+
 
 
 import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 
